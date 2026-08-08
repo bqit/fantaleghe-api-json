@@ -1,0 +1,36 @@
+name: Refreshes players datbase info
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch: 
+
+jobs:
+  refresh-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Repo checkout
+      uses: actions/checkout@v4
+
+    - name: Python config
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Exec script
+      env:
+        COOKIE: ${{ secrets.COOKIE }}
+      run: python updater.py
+
+    - name: Auto push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action Bot"
+        git add players.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "New players data!" && git push)
