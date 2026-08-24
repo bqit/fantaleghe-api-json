@@ -1,12 +1,10 @@
 name: Refreshes players datbase info
+permissions:
+  contents: write
 on:
   schedule:
     - cron: '0 4 * * *'
   workflow_dispatch: 
-
-permissions:
-  contents: write
-
 jobs:
   refresh-data:
     runs-on: ubuntu-latest
