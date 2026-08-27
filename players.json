@@ -240,21 +240,6 @@
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/4236.png?v=640"
     },
     {
-        "id": 218,
-        "name": "Perin",
-        "position": "P",
-        "team": "Juventus",
-        "qt_att": 6,
-        "qt_i": 6,
-        "diff": 0,
-        "qt_att_m": 6,
-        "qt_i_m": 6,
-        "diff_m": 0,
-        "fvm": 5,
-        "fvm_m": 5,
-        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/218.png?v=640"
-    },
-    {
         "id": 6248,
         "name": "Stankovic F.",
         "position": "P",
@@ -3120,6 +3105,21 @@
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7605.png?v=640"
     },
     {
+        "id": 6601,
+        "name": "Kambwala",
+        "position": "D",
+        "team": "Como",
+        "qt_att": 3,
+        "qt_i": 3,
+        "diff": 0,
+        "qt_att_m": 4,
+        "qt_i_m": 4,
+        "diff_m": 0,
+        "fvm": 8,
+        "fvm_m": 9,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6601.png?v=640"
+    },
+    {
         "id": 7483,
         "name": "Alhassane",
         "position": "D",
@@ -3463,36 +3463,6 @@
         "fvm": 1,
         "fvm_m": 1,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/5424.png?v=640"
-    },
-    {
-        "id": 7471,
-        "name": "Corrado",
-        "position": "D",
-        "team": "Frosinone",
-        "qt_att": 1,
-        "qt_i": 1,
-        "diff": 0,
-        "qt_att_m": 1,
-        "qt_i_m": 1,
-        "diff_m": 0,
-        "fvm": 1,
-        "fvm_m": 1,
-        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7471.png?v=640"
-    },
-    {
-        "id": 6244,
-        "name": "Matturro",
-        "position": "D",
-        "team": "Genoa",
-        "qt_att": 1,
-        "qt_i": 1,
-        "diff": 0,
-        "qt_att_m": 1,
-        "qt_i_m": 1,
-        "diff_m": 0,
-        "fvm": 2,
-        "fvm_m": 2,
-        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6244.png?v=640"
     },
     {
         "id": 294,
@@ -5565,21 +5535,6 @@
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/1871.png?v=640"
     },
     {
-        "id": 6424,
-        "name": "Prati",
-        "position": "C",
-        "team": "Cagliari",
-        "qt_att": 4,
-        "qt_i": 4,
-        "diff": 0,
-        "qt_att_m": 4,
-        "qt_i_m": 4,
-        "diff_m": 0,
-        "fvm": 7,
-        "fvm_m": 7,
-        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6424.png?v=640"
-    },
-    {
         "id": 6206,
         "name": "Fabbian",
         "position": "C",
@@ -6378,7 +6333,7 @@
         "id": 5007,
         "name": "Ilic",
         "position": "C",
-        "team": "Torino",
+        "team": "Lecce",
         "qt_att": 1,
         "qt_i": 1,
         "diff": 0,
@@ -6463,6 +6418,36 @@
         "fvm": 1,
         "fvm_m": 1,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7572.png?v=640"
+    },
+    {
+        "id": 7574,
+        "name": "Foe Ondoa",
+        "position": "C",
+        "team": "Monza",
+        "qt_att": 1,
+        "qt_i": 1,
+        "diff": 0,
+        "qt_att_m": 1,
+        "qt_i_m": 1,
+        "diff_m": 0,
+        "fvm": 2,
+        "fvm_m": 2,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7574.png?v=640"
+    },
+    {
+        "id": 7575,
+        "name": "Mout",
+        "position": "C",
+        "team": "Monza",
+        "qt_att": 1,
+        "qt_i": 1,
+        "diff": 0,
+        "qt_att_m": 1,
+        "qt_i_m": 1,
+        "diff_m": 0,
+        "fvm": 2,
+        "fvm_m": 2,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7575.png?v=640"
     },
     {
         "id": 5585,
@@ -6843,7 +6828,7 @@
         "id": 2038,
         "name": "Pinamonti",
         "position": "A",
-        "team": "Sassuolo",
+        "team": "Lazio",
         "qt_att": 13,
         "qt_i": 13,
         "diff": 0,
@@ -7573,6 +7558,21 @@
         "fvm": 10,
         "fvm_m": 10,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7546.png?v=640"
+    },
+    {
+        "id": 7602,
+        "name": "Fatah",
+        "position": "A",
+        "team": "Lecce",
+        "qt_att": 4,
+        "qt_i": 4,
+        "diff": 0,
+        "qt_att_m": 5,
+        "qt_i_m": 5,
+        "diff_m": 0,
+        "fvm": 17,
+        "fvm_m": 18,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7602.png?v=640"
     },
     {
         "id": 7128,
