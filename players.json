@@ -585,21 +585,6 @@
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6813.png?v=640"
     },
     {
-        "id": 6682,
-        "name": "Pizzignacco",
-        "position": "P",
-        "team": "Monza",
-        "qt_att": 1,
-        "qt_i": 1,
-        "diff": 0,
-        "qt_att_m": 1,
-        "qt_i_m": 1,
-        "diff_m": 0,
-        "fvm": 1,
-        "fvm_m": 1,
-        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6682.png?v=640"
-    },
-    {
         "id": 7475,
         "name": "Strajnar",
         "position": "P",
@@ -928,6 +913,21 @@
         "fvm": 1,
         "fvm_m": 1,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7603.png?v=640"
+    },
+    {
+        "id": 7611,
+        "name": "Mrozek",
+        "position": "P",
+        "team": "Udinese",
+        "qt_att": 1,
+        "qt_i": 1,
+        "diff": 0,
+        "qt_att_m": 1,
+        "qt_i_m": 1,
+        "diff_m": 0,
+        "fvm": 1,
+        "fvm_m": 1,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7611.png?v=640"
     },
     {
         "id": 254,
@@ -2428,21 +2428,6 @@
         "fvm": 14,
         "fvm_m": 17,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7268.png?v=640"
-    },
-    {
-        "id": 4461,
-        "name": "Zappa",
-        "position": "D",
-        "team": "Cagliari",
-        "qt_att": 4,
-        "qt_i": 4,
-        "diff": 0,
-        "qt_att_m": 4,
-        "qt_i_m": 4,
-        "diff_m": 0,
-        "fvm": 7,
-        "fvm_m": 9,
-        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/4461.png?v=640"
     },
     {
         "id": 7014,
@@ -5538,7 +5523,7 @@
         "id": 6206,
         "name": "Fabbian",
         "position": "C",
-        "team": "Fiorentina",
+        "team": "Parma",
         "qt_att": 4,
         "qt_i": 4,
         "diff": 0,
@@ -7393,6 +7378,36 @@
         "fvm": 13,
         "fvm_m": 11,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/2012.png?v=640"
+    },
+    {
+        "id": 7610,
+        "name": "Birligea",
+        "position": "A",
+        "team": "Frosinone",
+        "qt_att": 5,
+        "qt_i": 5,
+        "diff": 0,
+        "qt_att_m": 5,
+        "qt_i_m": 5,
+        "diff_m": 0,
+        "fvm": 14,
+        "fvm_m": 14,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7610.png?v=640"
+    },
+    {
+        "id": 6145,
+        "name": "Ngonge",
+        "position": "A",
+        "team": "Monza",
+        "qt_att": 5,
+        "qt_i": 5,
+        "diff": 0,
+        "qt_att_m": 5,
+        "qt_i_m": 5,
+        "diff_m": 0,
+        "fvm": 13,
+        "fvm_m": 13,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6145.png?v=640"
     },
     {
         "id": 6243,
