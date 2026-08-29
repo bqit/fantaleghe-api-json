@@ -2560,8 +2560,8 @@
         "qt_att_m": 4,
         "qt_i_m": 4,
         "diff_m": 0,
-        "fvm": 12,
-        "fvm_m": 12,
+        "fvm": 11,
+        "fvm_m": 11,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6659.png?v=640"
     },
     {
@@ -2935,7 +2935,7 @@
         "qt_att_m": 3,
         "qt_i_m": 3,
         "diff_m": 0,
-        "fvm": 9,
+        "fvm": 14,
         "fvm_m": 10,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7238.png?v=640"
     },
@@ -3643,6 +3643,21 @@
         "fvm": 1,
         "fvm_m": 1,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7553.png?v=640"
+    },
+    {
+        "id": 7396,
+        "name": "Macchioni",
+        "position": "D",
+        "team": "Sassuolo",
+        "qt_att": 1,
+        "qt_i": 1,
+        "diff": 0,
+        "qt_att_m": 1,
+        "qt_i_m": 1,
+        "diff_m": 0,
+        "fvm": 1,
+        "fvm_m": 1,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7396.png?v=640"
     },
     {
         "id": 7599,
@@ -4525,8 +4540,8 @@
         "qt_att_m": 7,
         "qt_i_m": 7,
         "diff_m": 0,
-        "fvm": 25,
-        "fvm_m": 22,
+        "fvm": 15,
+        "fvm_m": 13,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/5878.png?v=640"
     },
     {
@@ -5005,8 +5020,8 @@
         "qt_att_m": 6,
         "qt_i_m": 6,
         "diff_m": 0,
-        "fvm": 16,
-        "fvm_m": 16,
+        "fvm": 12,
+        "fvm_m": 12,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6593.png?v=640"
     },
     {
@@ -5080,8 +5095,8 @@
         "qt_att_m": 8,
         "qt_i_m": 8,
         "diff_m": 0,
-        "fvm": 15,
-        "fvm_m": 19,
+        "fvm": 14,
+        "fvm_m": 17,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7146.png?v=640"
     },
     {
@@ -5688,15 +5703,15 @@
         "id": 6252,
         "name": "Folorunsho",
         "position": "C",
-        "team": "Napoli",
+        "team": "Monza",
         "qt_att": 4,
         "qt_i": 4,
         "diff": 0,
         "qt_att_m": 4,
         "qt_i_m": 4,
         "diff_m": 0,
-        "fvm": 5,
-        "fvm_m": 5,
+        "fvm": 17,
+        "fvm_m": 17,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6252.png?v=640"
     },
     {
@@ -5880,21 +5895,6 @@
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6503.png?v=640"
     },
     {
-        "id": 5813,
-        "name": "Miretti",
-        "position": "C",
-        "team": "Juventus",
-        "qt_att": 3,
-        "qt_i": 3,
-        "diff": 0,
-        "qt_att_m": 3,
-        "qt_i_m": 3,
-        "diff_m": 0,
-        "fvm": 7,
-        "fvm_m": 7,
-        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/5813.png?v=640"
-    },
-    {
         "id": 7248,
         "name": "Gorter",
         "position": "C",
@@ -5950,8 +5950,8 @@
         "qt_att_m": 3,
         "qt_i_m": 3,
         "diff_m": 0,
-        "fvm": 7,
-        "fvm_m": 8,
+        "fvm": 4,
+        "fvm_m": 5,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7477.png?v=640"
     },
     {
@@ -6430,8 +6430,8 @@
         "qt_att_m": 1,
         "qt_i_m": 1,
         "diff_m": 0,
-        "fvm": 2,
-        "fvm_m": 2,
+        "fvm": 12,
+        "fvm_m": 12,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7575.png?v=640"
     },
     {
@@ -7000,8 +7000,8 @@
         "qt_att_m": 10,
         "qt_i_m": 10,
         "diff_m": 0,
-        "fvm": 27,
-        "fvm_m": 30,
+        "fvm": 23,
+        "fvm_m": 25,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6530.png?v=640"
     },
     {
@@ -7045,9 +7045,24 @@
         "qt_att_m": 8,
         "qt_i_m": 8,
         "diff_m": 0,
-        "fvm": 33,
-        "fvm_m": 30,
+        "fvm": 30,
+        "fvm_m": 27,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/2155.png?v=640"
+    },
+    {
+        "id": 7612,
+        "name": "Bobcek",
+        "position": "A",
+        "team": "Frosinone",
+        "qt_att": 9,
+        "qt_i": 9,
+        "diff": 0,
+        "qt_att_m": 9,
+        "qt_i_m": 9,
+        "diff_m": 0,
+        "fvm": 38,
+        "fvm_m": 38,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7612.png?v=640"
     },
     {
         "id": 4359,
@@ -7135,8 +7150,8 @@
         "qt_att_m": 6,
         "qt_i_m": 6,
         "diff_m": 0,
-        "fvm": 22,
-        "fvm_m": 19,
+        "fvm": 15,
+        "fvm_m": 15,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/5436.png?v=640"
     },
     {
@@ -7315,8 +7330,8 @@
         "qt_att_m": 5,
         "qt_i_m": 5,
         "diff_m": 0,
-        "fvm": 18,
-        "fvm_m": 18,
+        "fvm": 10,
+        "fvm_m": 10,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/5882.png?v=640"
     },
     {
@@ -7330,8 +7345,8 @@
         "qt_att_m": 5,
         "qt_i_m": 3,
         "diff_m": 2,
-        "fvm": 7,
-        "fvm_m": 6,
+        "fvm": 20,
+        "fvm_m": 17,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7523.png?v=640"
     },
     {
@@ -7440,21 +7455,6 @@
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7374.png?v=640"
     },
     {
-        "id": 313,
-        "name": "Morata",
-        "position": "A",
-        "team": "Como",
-        "qt_att": 4,
-        "qt_i": 4,
-        "diff": 0,
-        "qt_att_m": 3,
-        "qt_i_m": 3,
-        "diff_m": 0,
-        "fvm": 7,
-        "fvm_m": 7,
-        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/313.png?v=640"
-    },
-    {
         "id": 6204,
         "name": "Kvernadze",
         "position": "A",
@@ -7465,8 +7465,8 @@
         "qt_att_m": 5,
         "qt_i_m": 5,
         "diff_m": 0,
-        "fvm": 16,
-        "fvm_m": 19,
+        "fvm": 17,
+        "fvm_m": 20,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6204.png?v=640"
     },
     {
@@ -7570,8 +7570,8 @@
         "qt_att_m": 4,
         "qt_i_m": 4,
         "diff_m": 0,
-        "fvm": 10,
-        "fvm_m": 10,
+        "fvm": 5,
+        "fvm_m": 5,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7546.png?v=640"
     },
     {
