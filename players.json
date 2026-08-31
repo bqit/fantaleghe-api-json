@@ -1590,6 +1590,21 @@
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6727.png?v=640"
     },
     {
+        "id": 5675,
+        "name": "Theate",
+        "position": "D",
+        "team": "Bologna",
+        "qt_att": 8,
+        "qt_i": 8,
+        "diff": 0,
+        "qt_att_m": 9,
+        "qt_i_m": 9,
+        "diff_m": 0,
+        "fvm": 20,
+        "fvm_m": 22,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/5675.png?v=640"
+    },
+    {
         "id": 5701,
         "name": "Obert",
         "position": "D",
@@ -2113,6 +2128,21 @@
         "fvm": 15,
         "fvm_m": 15,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7329.png?v=640"
+    },
+    {
+        "id": 4705,
+        "name": "Balerdi",
+        "position": "D",
+        "team": "Roma",
+        "qt_att": 6,
+        "qt_i": 6,
+        "diff": 0,
+        "qt_att_m": 6,
+        "qt_i_m": 6,
+        "diff_m": 0,
+        "fvm": 11,
+        "fvm_m": 11,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/4705.png?v=640"
     },
     {
         "id": 2640,
@@ -3123,7 +3153,7 @@
         "id": 6896,
         "name": "Van Der Brempt",
         "position": "D",
-        "team": "Como",
+        "team": "Sassuolo",
         "qt_att": 2,
         "qt_i": 2,
         "diff": 0,
@@ -3558,7 +3588,7 @@
         "id": 7260,
         "name": "Ziolkowski",
         "position": "D",
-        "team": "Roma",
+        "team": "Monza",
         "qt_att": 1,
         "qt_i": 1,
         "diff": 0,
@@ -3703,6 +3733,21 @@
         "fvm": 1,
         "fvm_m": 1,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7615.png?v=640"
+    },
+    {
+        "id": 6826,
+        "name": "Dembelè A.",
+        "position": "D",
+        "team": "Lecce",
+        "qt_att": 1,
+        "qt_i": 1,
+        "diff": 0,
+        "qt_att_m": 1,
+        "qt_i_m": 1,
+        "diff_m": 0,
+        "fvm": 2,
+        "fvm_m": 2,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6826.png?v=640"
     },
     {
         "id": 6875,
@@ -5418,15 +5463,15 @@
         "id": 6827,
         "name": "Njie",
         "position": "C",
-        "team": "Torino",
+        "team": "Fiorentina",
         "qt_att": 5,
         "qt_i": 4,
         "diff": 1,
         "qt_att_m": 4,
         "qt_i_m": 3,
         "diff_m": 1,
-        "fvm": 14,
-        "fvm_m": 16,
+        "fvm": 23,
+        "fvm_m": 21,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6827.png?v=640"
     },
     {
@@ -5523,7 +5568,7 @@
         "id": 22,
         "name": "De Roon",
         "position": "C",
-        "team": "Atalanta",
+        "team": "Roma",
         "qt_att": 4,
         "qt_i": 4,
         "diff": 0,
@@ -6673,21 +6718,6 @@
         "fvm": 109,
         "fvm_m": 109,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/5637.png?v=640"
-    },
-    {
-        "id": 4510,
-        "name": "Leao",
-        "position": "A",
-        "team": "Milan",
-        "qt_att": 18,
-        "qt_i": 18,
-        "diff": 0,
-        "qt_att_m": 19,
-        "qt_i_m": 19,
-        "diff_m": 0,
-        "fvm": 75,
-        "fvm_m": 75,
-        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/4510.png?v=640"
     },
     {
         "id": 531,
