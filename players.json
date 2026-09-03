@@ -960,6 +960,21 @@
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/2874.png?v=640"
     },
     {
+        "id": 7626,
+        "name": "Pompei",
+        "position": "P",
+        "team": "Atalanta",
+        "qt_att": 1,
+        "qt_i": 1,
+        "diff": 0,
+        "qt_att_m": 1,
+        "qt_i_m": 1,
+        "diff_m": 0,
+        "fvm": 1,
+        "fvm_m": 1,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7626.png?v=640"
+    },
+    {
         "id": 254,
         "name": "Dimarco",
         "position": "D",
@@ -5055,6 +5070,21 @@
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/5680.png?v=640"
     },
     {
+        "id": 795,
+        "name": "El Shaarawy",
+        "position": "C",
+        "team": "Genoa",
+        "qt_att": 7,
+        "qt_i": 7,
+        "diff": 0,
+        "qt_att_m": 6,
+        "qt_i_m": 6,
+        "diff_m": 0,
+        "fvm": 25,
+        "fvm_m": 23,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/795.png?v=640"
+    },
+    {
         "id": 5298,
         "name": "Pobega",
         "position": "C",
@@ -7425,21 +7455,6 @@
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/5918.png?v=640"
     },
     {
-        "id": 6598,
-        "name": "Mutandwa",
-        "position": "A",
-        "team": "Cagliari",
-        "qt_att": 6,
-        "qt_i": 6,
-        "diff": 0,
-        "qt_att_m": 6,
-        "qt_i_m": 6,
-        "diff_m": 0,
-        "fvm": 7,
-        "fvm_m": 7,
-        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6598.png?v=640"
-    },
-    {
         "id": 6204,
         "name": "Kvernadze",
         "position": "A",
@@ -7873,6 +7888,21 @@
         "fvm": 11,
         "fvm_m": 11,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7561.png?v=640"
+    },
+    {
+        "id": 7627,
+        "name": "Enem",
+        "position": "A",
+        "team": "Bologna",
+        "qt_att": 2,
+        "qt_i": 2,
+        "diff": 0,
+        "qt_att_m": 2,
+        "qt_i_m": 2,
+        "diff_m": 0,
+        "fvm": 4,
+        "fvm_m": 4,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7627.png?v=640"
     },
     {
         "id": 7317,
