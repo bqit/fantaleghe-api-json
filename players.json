@@ -2040,21 +2040,6 @@
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/5877.png?v=640"
     },
     {
-        "id": 460,
-        "name": "Romagnoli",
-        "position": "D",
-        "team": "Lazio",
-        "qt_att": 6,
-        "qt_i": 7,
-        "diff": -1,
-        "qt_att_m": 6,
-        "qt_i_m": 7,
-        "diff_m": -1,
-        "fvm": 20,
-        "fvm_m": 20,
-        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/460.png?v=640"
-    },
-    {
         "id": 4817,
         "name": "Pedraza",
         "position": "D",
@@ -2490,6 +2475,21 @@
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/5751.png?v=640"
     },
     {
+        "id": 2169,
+        "name": "Rodriguez R.",
+        "position": "D",
+        "team": "Torino",
+        "qt_att": 5,
+        "qt_i": 5,
+        "diff": 0,
+        "qt_att_m": 6,
+        "qt_i_m": 6,
+        "diff_m": 0,
+        "fvm": 12,
+        "fvm_m": 14,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/2169.png?v=640"
+    },
+    {
         "id": 5578,
         "name": "Kossounou",
         "position": "D",
@@ -2878,6 +2878,21 @@
         "fvm": 10,
         "fvm_m": 12,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/256.png?v=640"
+    },
+    {
+        "id": 6047,
+        "name": "Ehizibue",
+        "position": "D",
+        "team": "Genoa",
+        "qt_att": 4,
+        "qt_i": 4,
+        "diff": 0,
+        "qt_att_m": 4,
+        "qt_i_m": 4,
+        "diff_m": 0,
+        "fvm": 10,
+        "fvm_m": 10,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6047.png?v=640"
     },
     {
         "id": 5498,
