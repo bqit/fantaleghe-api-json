@@ -2190,6 +2190,21 @@
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7621.png?v=640"
     },
     {
+        "id": 6319,
+        "name": "Leite",
+        "position": "D",
+        "team": "Lazio",
+        "qt_att": 6,
+        "qt_i": 6,
+        "diff": 0,
+        "qt_att_m": 6,
+        "qt_i_m": 6,
+        "diff_m": 0,
+        "fvm": 14,
+        "fvm_m": 14,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6319.png?v=640"
+    },
+    {
         "id": 4887,
         "name": "Bellanova",
         "position": "D",
