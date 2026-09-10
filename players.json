@@ -765,21 +765,6 @@
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/543.png?v=640"
     },
     {
-        "id": 5707,
-        "name": "Piana",
-        "position": "P",
-        "team": "Udinese",
-        "qt_att": 1,
-        "qt_i": 1,
-        "diff": 0,
-        "qt_att_m": 1,
-        "qt_i_m": 1,
-        "diff_m": 0,
-        "fvm": 1,
-        "fvm_m": 1,
-        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/5707.png?v=640"
-    },
-    {
         "id": 6671,
         "name": "Grandi",
         "position": "P",
