@@ -3955,8 +3955,8 @@
         "qt_att_m": 16,
         "qt_i_m": 14,
         "diff_m": 2,
-        "fvm": 103,
-        "fvm_m": 103,
+        "fvm": 97,
+        "fvm_m": 97,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/2517.png?v=640"
     },
     {
@@ -4030,8 +4030,8 @@
         "qt_att_m": 14,
         "qt_i_m": 12,
         "diff_m": 2,
-        "fvm": 39,
-        "fvm_m": 39,
+        "fvm": 70,
+        "fvm_m": 70,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7078.png?v=640"
     },
     {
@@ -6688,6 +6688,21 @@
         "fvm": 1,
         "fvm_m": 1,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7629.png?v=640"
+    },
+    {
+        "id": 5850,
+        "name": "Lovric",
+        "position": "C",
+        "team": "Udinese",
+        "qt_att": 1,
+        "qt_i": 1,
+        "diff": 0,
+        "qt_att_m": 1,
+        "qt_i_m": 1,
+        "diff_m": 0,
+        "fvm": 1,
+        "fvm_m": 1,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/5850.png?v=640"
     },
     {
         "id": 5585,
