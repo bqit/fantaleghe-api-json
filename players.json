@@ -1335,6 +1335,21 @@
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/5982.png?v=640"
     },
     {
+        "id": 2404,
+        "name": "Alaba",
+        "position": "D",
+        "team": "Udinese",
+        "qt_att": 10,
+        "qt_i": 10,
+        "diff": 0,
+        "qt_att_m": 10,
+        "qt_i_m": 10,
+        "diff_m": 0,
+        "fvm": 25,
+        "fvm_m": 25,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/2404.png?v=640"
+    },
+    {
         "id": 4210,
         "name": "Mina",
         "position": "D",
