@@ -945,6 +945,21 @@
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7626.png?v=640"
     },
     {
+        "id": 283,
+        "name": "Neto",
+        "position": "P",
+        "team": "Juventus",
+        "qt_att": 1,
+        "qt_i": 1,
+        "diff": 0,
+        "qt_att_m": 1,
+        "qt_i_m": 1,
+        "diff_m": 0,
+        "fvm": 1,
+        "fvm_m": 1,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/283.png?v=640"
+    },
+    {
         "id": 254,
         "name": "Dimarco",
         "position": "D",
@@ -3493,21 +3508,6 @@
         "fvm": 4,
         "fvm_m": 4,
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6039.png?v=640"
-    },
-    {
-        "id": 327,
-        "name": "Patric",
-        "position": "D",
-        "team": "Lazio",
-        "qt_att": 1,
-        "qt_i": 1,
-        "diff": 0,
-        "qt_att_m": 1,
-        "qt_i_m": 1,
-        "diff_m": 0,
-        "fvm": 1,
-        "fvm_m": 1,
-        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/327.png?v=640"
     },
     {
         "id": 2263,
