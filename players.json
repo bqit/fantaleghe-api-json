@@ -3810,6 +3810,21 @@
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/6826.png?v=640"
     },
     {
+        "id": 7633,
+        "name": "Obric",
+        "position": "D",
+        "team": "Atalanta",
+        "qt_att": 1,
+        "qt_i": 1,
+        "diff": 0,
+        "qt_att_m": 1,
+        "qt_i_m": 1,
+        "diff_m": 0,
+        "fvm": 1,
+        "fvm_m": 1,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7633.png?v=640"
+    },
+    {
         "id": 6875,
         "name": "Paz N.",
         "position": "C",
