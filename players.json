@@ -3135,6 +3135,21 @@
         "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/7599.png?v=640"
     },
     {
+        "id": 2525,
+        "name": "Darmian",
+        "position": "D",
+        "team": "Bologna",
+        "qt_att": 3,
+        "qt_i": 3,
+        "diff": 0,
+        "qt_att_m": 4,
+        "qt_i_m": 4,
+        "diff_m": 0,
+        "fvm": 7,
+        "fvm_m": 10,
+        "playerImage": "https://content.fantacalcio.it/web/campioncini/21/medium/2525.png?v=640"
+    },
+    {
         "id": 5498,
         "name": "Casale",
         "position": "D",
